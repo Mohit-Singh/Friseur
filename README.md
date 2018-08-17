@@ -1,3 +1,12 @@
+# Friseur
+### Salon management app
+
+[![version](https://img.shields.io/badge/version-v0.0.1-orange.svg)]()
+[![npm](https://img.shields.io/badge/npm-6.*.*-blue.svg)]()
+[![npm](https://img.shields.io/badge/license-Apache%202.0-brightgreen.svg)]()
+[![PyPI](https://img.shields.io/badge/status-development-orange.svg)]()
+
+
 ## React Pre-requisites
 > * Node version > 4.*
 > * NPM version 3.* < v < 5.*
