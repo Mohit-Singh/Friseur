@@ -10,6 +10,7 @@
 ## React Pre-requisites
 > * Node version > 4.*
 > * NPM version 3.* < v < 5.*
+> * Visual Studio Code
 
 ## Setting-up react environment
 
